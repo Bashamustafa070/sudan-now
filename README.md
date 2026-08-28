@@ -1,3 +1,2 @@
-sudanese
-# sudan-now 
+# sudan-now
 homeland's 
